@@ -4,11 +4,11 @@
 		<engineLink>https://wordpress.org/</engineLink>
 		<homePageLink>https://insta.varpash.ir</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://insta.varpash.ir/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://insta.varpash.ir/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://insta.varpash.ir/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://insta.varpash.ir/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://insta.varpash.ir/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://demo1.seosakht.ir/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://demo1.seosakht.ir/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://demo1.seosakht.ir/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://demo1.seosakht.ir/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://demo1.seosakht.ir/wp-json/" />
 			</apis>
 	</service>
 </rsd>
