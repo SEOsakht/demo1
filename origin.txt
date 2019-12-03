@@ -1,0 +1,756 @@
+Uri: https://insta.varpash.ir/
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\index.htm
+Content Type: text/html
+
+Uri: https://insta.varpash.ir/wp-content/uploads/802.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\802.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/about-background2.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\about-background2.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/parallax-11.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\parallax-11.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/feed/
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://insta.varpash.ir/comments/feed/
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\comments\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/assets/css/style.min.css?ver=6.1.2
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada-Child-Theme/style.css?ver=5.3
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada-Child-Theme\style.css
+Content Type: text/css
+
+Uri: https://insta.varpash.ir/wp-content/uploads/fusion-styles/0818dd645be4e5f07610dfb48683d778.min.css?ver=2.1.2
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\fusion-styles\0818dd645be4e5f07610dfb48683d778.min.css
+Content Type: text/css
+
+Uri: https://insta.varpash.ir/wp-json/
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-json\index.json
+Content Type: application/json
+
+Uri: https://insta.varpash.ir/xmlrpc.php?rsd
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\xmlrpc.xml
+Content Type: text/xml
+
+Uri: https://insta.varpash.ir/wp-includes/wlwmanifest.xml
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://insta.varpash.ir/wp-json/oembed/1.0/embed?url=https:%2F%2Finsta.varpash.ir%2F
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://insta.varpash.ir/wp-json/oembed/1.0/embed?url=https:%2F%2Finsta.varpash.ir%2F&format=xml
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://insta.varpash.ir/about-us/
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\about-us\index.htm
+Content Type: text/html
+
+Uri: https://insta.varpash.ir/food-drink/
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\food-drink\index.htm
+Content Type: text/html
+
+Uri: https://insta.varpash.ir/locations/
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\locations\index.htm
+Content Type: text/html
+
+Uri: https://insta.varpash.ir/contact/
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\contact\index.htm
+Content Type: text/html
+
+Uri: https://insta.varpash.ir/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://insta.varpash.ir/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://insta.varpash.ir/wp-content/uploads/cafe_logo2.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\cafe_logo2.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/uploads/cafe_mobile_logo1x.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\cafe_mobile_logo1x.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/uploads/ezgif.com-gif-maker.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\ezgif.com-gif-maker.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/uploads/about-12.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\about-12.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/about-22.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\about-22.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/footer-11.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\footer-11.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/footer-21.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\footer-21.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/footer-31.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\footer-31.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/footer-41.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\footer-41.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/avada-cafe-logo-footer.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\avada-cafe-logo-footer.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.6
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://insta.varpash.ir/wp-content/uploads/fusion-scripts/2cb455a129d82ce94a46cbca5b1a6e12.min.js?ver=2.1.2
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\fusion-scripts\2cb455a129d82ce94a46cbca5b1a6e12.min.js
+Content Type: application/javascript
+
+Uri: https://insta.varpash.ir/wp-includes/js/wp-embed.min.js?ver=5.3
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://insta.varpash.ir/wp-content/uploads/cafe_logo2x.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\cafe_logo2x.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/uploads/cafe_mobile_logo2x.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\cafe_mobile_logo2x.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/assets/images/shadow-top.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\assets\images\shadow-top.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/assets/images/shadow-bottom.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\assets\images\shadow-bottom.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://insta.varpash.ir/wp-content/uploads/IRANYekanRegularRd.woff2
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\IRANYekanRegularRd.txt
+Content Type: text/plain
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/assets/images/patterns/pattern1.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\assets\images\patterns\pattern1.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/uploads/banner-image1-1.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\banner-image1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.eot
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.eot?
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.woff
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon.woff
+Content Type: application/x-font-woff
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.ttf
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/icomoon.svg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\icomoon\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.eot
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.eot?
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400.txt
+Content Type: text/plain
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.woff
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.svg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.eot
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.eot?
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400.txt
+Content Type: text/plain
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.svg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.eot
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.eot?
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900.txt
+Content Type: text/plain
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900.woff
+Content Type: application/x-font-woff
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://insta.varpash.ir/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.svg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\themes\Avada\includes\lib\assets\fonts\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/mejs-controls-dark.svg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\mejs-controls-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/closedhand.cur
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\closedhand.txt
+Content Type: text/plain
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/facebook_16.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\facebook_16.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/digg_16.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\digg_16.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/twitter_16.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\twitter_16.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/delicious_16.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\delicious_16.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/reddit_16.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\reddit_16.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/social_icons/google_plus_16.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\social_icons\google_plus_16.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/preloader.gif
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/caption-bg.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/alert.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\alert.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/buttons.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\buttons.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/fullscreen-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/x-mark-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-next-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-prev-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/play-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/pause-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/thumb-overlay-play.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-next-vertical-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\arrow-next-vertical-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/dark-skin/arrow-prev-vertical-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\dark-skin\arrow-prev-vertical-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/preloader.gif
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/caption-bg.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/alert.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\alert.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/buttons.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\buttons.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/fullscreen-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/x-mark-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-next-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-prev-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/play-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/pause-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/thumb-overlay-play.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-next-vertical-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\arrow-next-vertical-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/light-skin/arrow-prev-vertical-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\light-skin\arrow-prev-vertical-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/preloader.gif
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/caption-bg.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/alert.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\alert.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/close-25.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\close-25.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/resize-25.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\resize-25.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/play-25.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\play-25.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/pause-25.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\pause-25.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/resize-50.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\resize-50.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/close-50.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\close-50.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-50.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\forward-50.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-50.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\back-50.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/play-50.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\play-50.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/pause-50.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\pause-50.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/thumb-overlay-play.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/forward-vertical-50.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\forward-vertical-50.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/mac-skin/back-vertical-50.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\mac-skin\back-vertical-50.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/preloader.gif
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/caption-bg.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/social-bg.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\social-bg.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/alert.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\alert.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/buttons.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\buttons.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/fullscreen-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/x-mark-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrow-next-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrow-prev-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/play-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/pause-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/thumb-overlay-play.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrows_vertical.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\arrows_vertical.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-black-skin/arrows_horizontal.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-black-skin\arrows_horizontal.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/preloader.gif
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/caption-bg.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/social-bg.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\social-bg.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/alert.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\alert.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/buttons.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\buttons.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/fullscreen-hover-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\fullscreen-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/x-mark-hover-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\x-mark-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-next-hover-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-next-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrow-prev-hover-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrow-prev-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/play-hover-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\play-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/pause-hover-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\pause-hover-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/thumb-overlay-play.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_vertical.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrows_vertical.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_horizontal.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\metro-white-skin\arrows_horizontal.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/pattern.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\pattern.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/preloader.gif
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/caption-bg.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/alert.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\alert.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/buttons.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\buttons.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/parade-skin/thumb-overlay-play.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\parade-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/preloader.gif
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/caption-bg.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\caption-bg.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/alert.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\alert.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/buttons.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\buttons.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/fullscreen-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\fullscreen-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/x-mark-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\x-mark-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrow-next-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\arrow-next-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrow-prev-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\arrow-prev-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/play-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\play-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/pause-icon-64.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\pause-icon-64.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/thumb-overlay-play.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\thumb-overlay-play.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrows_vertical.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\arrows_vertical.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/plugins/fusion-builder/assets/images/iLightbox/smooth-skin/arrows_horizontal.png
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\plugins\fusion-builder\assets\images\iLightbox\smooth-skin\arrows_horizontal.png
+Content Type: image/png
+
+Uri: https://insta.varpash.ir/wp-content/uploads/402.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\402.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/about-11.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\about-11.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/about-21.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\about-21.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/about-3-1.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\about-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/about-us/feed/
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\about-us\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://insta.varpash.ir/wp-json/oembed/1.0/embed?url=https:%2F%2Finsta.varpash.ir%2Fabout-us%2F
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://insta.varpash.ir/wp-json/oembed/1.0/embed?url=https:%2F%2Finsta.varpash.ir%2Fabout-us%2F&format=xml
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://insta.varpash.ir/wp-content/uploads/799.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\799.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/starter-menu1.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\starter-menu1.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/main-menu1.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\main-menu1.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/about-1-1.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\about-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/parallax-image.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\parallax-image.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-json/oembed/1.0/embed?url=https:%2F%2Finsta.varpash.ir%2Ffood-drink%2F
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://insta.varpash.ir/wp-json/oembed/1.0/embed?url=https:%2F%2Finsta.varpash.ir%2Ffood-drink%2F&format=xml
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://insta.varpash.ir/wp-content/uploads/location-11-2.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\location-11-2.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/location-311.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\location-311.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/location-211.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\location-211.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-content/uploads/location-41.jpg
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-content\uploads\location-41.jpg
+Content Type: image/jpeg
+
+Uri: https://insta.varpash.ir/wp-json/oembed/1.0/embed?url=https:%2F%2Finsta.varpash.ir%2Flocations%2F
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://insta.varpash.ir/wp-json/oembed/1.0/embed?url=https:%2F%2Finsta.varpash.ir%2Flocations%2F&format=xml
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://insta.varpash.ir/wp-json/oembed/1.0/embed?url=https:%2F%2Finsta.varpash.ir%2Fcontact%2F
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://insta.varpash.ir/wp-json/oembed/1.0/embed?url=https:%2F%2Finsta.varpash.ir%2Fcontact%2F&format=xml
+File Name: c:\Downloaded Web Sites\insta.varpash.ir\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
